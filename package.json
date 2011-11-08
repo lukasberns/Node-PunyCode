@@ -5,10 +5,10 @@
   "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/reconbot/Node-PunyCode.git"
+    "url": "git://github.com/lukasberns/Node-PunyCode.git"
   },
   "engines": {"npm":"1.0.x","node":"0.4.x"},
   "dependencies": {},
   "devDependencies": {},
-  "homepage": "https://github.com/reconbot/Node-PunyCode"
+  "homepage": "https://github.com/lukasberns/Node-PunyCode"
 }
