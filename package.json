@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git://github.com/lukasberns/Node-PunyCode.git"
   },
-  "engines": {"npm":"1.0.x","node":">=0.4.x"},
+  "engines": {"npm":">=1.0.x","node":">=0.4.x"},
   "dependencies": {},
   "devDependencies": {},
   "homepage": "https://github.com/lukasberns/Node-PunyCode"
